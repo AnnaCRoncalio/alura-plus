@@ -214,10 +214,15 @@ body {
     }
 
     .rodape__lista {
-        display: block;
+        flex-direction: column;
+        gap: 0.7em;
     }
 
     .rodape__lista__link {
         margin-bottom: 0.5em;
+    }
+
+    .rodape__texto {
+        font-size: 8px;
     }
 }
