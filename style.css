@@ -161,6 +161,7 @@ body {
     .container {
         display: flex;
         flex-direction: column;
+        justify-content: center;
         background-image: none;
         height: 80vh;
     }
@@ -176,7 +177,6 @@ body {
     .secundario {
         margin: 0;
         text-align: center;
-        justify-content: center;
     }
 
     .secundario__imagem {
