@@ -179,6 +179,10 @@ body {
         text-align: center;
     }
 
+    .mobile {
+        flex-direction: column-reverse;
+    }
+
     .secundario__imagem {
         width: 50vw;
     }
